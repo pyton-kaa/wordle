@@ -1,2 +1,2 @@
 # wordle
-My versions of the popular word game
+A terminal version of the popular word game
